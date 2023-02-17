@@ -15,7 +15,10 @@ public class isuitelistener  implements ISuiteListener{
 		// TODO Auto-generated method stub 
 		System.out.println("test is end");
 		
-	} 
+	}  
+	public void onend(Isuite suite) { 
+		System.out.println("test will continue") ;
+				   
 	
 
 }
