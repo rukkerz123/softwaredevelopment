@@ -16,7 +16,6 @@ public class isuitelistener  implements ISuiteListener{
 		System.out.println("test is end");
 		
 	} 
-	public void on execute (Isuite suite){ 
-		system.out.println("test is continue") ;
+	
 
 }
